@@ -1,2 +1,1 @@
-echo "Hello and Welcome";
-echo "cool";
+echo "Hello and Welcome"
